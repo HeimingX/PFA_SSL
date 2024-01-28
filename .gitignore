@@ -1,0 +1,18 @@
+.idea/
+.vscode
+# dataset dir
+Aircraft
+cifar100
+CUB200
+StanfordCars
+
+# output files
+out
+vis
+
+# compilation and distribution
+__pycache__
+*.pyc
+
+# tar files
+*.tar
